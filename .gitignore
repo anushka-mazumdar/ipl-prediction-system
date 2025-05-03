@@ -1,0 +1,19 @@
+# Virtual environment
+venv/
+
+# Jupyter and Python cache
+__pycache__/
+.ipynb_checkpoints/
+*.py[cod]
+
+# Logs
+*.log
+
+# System files
+.DS_Store
+
+# Environment
+.env
+
+# Raw data (optional)
+data_processing/raw_data/
