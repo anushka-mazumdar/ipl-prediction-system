@@ -1,10 +1,10 @@
 # 🏏 IPL Match Outcome Prediction System
 
-This project is a comprehensive Machine Learning-based system to predict the outcome of Indian Premier League (IPL) matches. It uses historical IPL data to analyze performance trends, engineer meaningful features, and train predictive models. The final product allows users to input match conditions and receive outcome predictions in real time.
+This project is a comprehensive Machine Learning-based system designed to predict the outcome of Indian Premier League (IPL) matches. It uses historical IPL data to analyze performance trends, engineer meaningful features, and train predictive models. The system offers API-based predictions via FastAPI.
 
 ## 📌 Problem Statement
 
-Predicting the outcome of a T20 cricket match is a challenging task due to its dynamic nature. This project attempts to forecast match winners based on historical match data, team compositions, toss results, venues, and other factors available before or early in the game.
+Predicting the outcome of a T20 cricket match is a challenging task due to its dynamic nature. This project aims to forecast match winners based on historical match data, team compositions, and other factors available before or early in the game.
 
 ## 📊 Dataset
 
@@ -121,7 +121,7 @@ IPL-prediction-system/
 * [x] Structured repo with README and requirements.txt
 * [x] GitHub repo link provided with organized codebase
 
-## 📌 Author
+## 👩‍💻 Author
 
 **Anushka Mazumdar**
 AI/ML Engineer | Python Enthusiast | Data Science Explorer
